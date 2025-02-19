@@ -3,7 +3,7 @@ import pandas as pd
 
 # Set page configuration and custom CSS
 st.set_page_config(
-    page_title="GaadiMech Operations Dashboard",
+    page_title="GaadiMech Pricing Dashboard",
     page_icon="🔧",
     layout="wide"
 )
